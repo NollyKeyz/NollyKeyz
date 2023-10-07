@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NollyKeyz
+- 👋 Hi, I’m @Knowledge
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning ...R programming language
 - 💞️ I’m looking to collaborate on coding projects
