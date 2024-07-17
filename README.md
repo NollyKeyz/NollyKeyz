@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning ...R programming language
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me nollyedge.willie.kw@gmail.com
+- 📫 How to reach me nolly@xcelplustech.com
 
 <!---
 NollyKeyz/NollyKeyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
